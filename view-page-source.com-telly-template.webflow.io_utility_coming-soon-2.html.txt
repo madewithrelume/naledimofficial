@@ -5,16 +5,16 @@
 "5e9096c44868623c305bae34" data-wf-site="5e1409032c28770d78bb9446">
 <head>
   <meta charset="utf-8">
-  <title>Telly - Webflow HTML website template</title>
+  <title>Sign Up - Naledi Mallela</title>
   <meta content=
   "Telly is a Webflow CMS template made for your videos. Use it to share your screencasts, vlogs, video podcasts, webinars, films, or whatever type of video content you create."
   name="description">
-  <meta content="Telly - Webflow HTML website template" property=
+  <meta content="Sign Up - Naledi Mallela" property=
   "og:title">
   <meta content=
   "Telly is a Webflow CMS template made for your videos. Use it to share your screencasts, vlogs, video podcasts, webinars, films, or whatever type of video content you create."
   property="og:description">
-  <meta content="Telly - Webflow HTML website template" property=
+  <meta content="Sign Up - Naledi Mallela" property=
   "twitter:title">
   <meta content=
   "Telly is a Webflow CMS template made for your videos. Use it to share your screencasts, vlogs, video podcasts, webinars, films, or whatever type of video content you create."
@@ -57,33 +57,20 @@
   <div class="section no-margin-top">
     <div class="container">
       <div class="section-hero">
-        <h1 class="heading-xl">We're launching very soon.</h1>
-        <h3 class="subhead">We're heads down making something
-        special. Sign up to hear when we launch.</h3>
+        <h1 class="heading-xl">Create An Account</h1>
+        <h3 class="subhead">Get started with a freemium account (ad-supported) or unlock the full, ad-free experience for just R49 per month.</h3>
       </div>
     </div>
   </div>
-  <div class="section">
-    <div class="container">
-      <div class="container-width-large">
-        <div class="rounded">
-          <div style="padding-top:56.27659574468085%" class=
-          "w-video w-embed">
-            <iframe class="embedly-embed" src=
-            "//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Ffast.wistia.net%2Fembed%2Fiframe%2Favk9twrrbn&display_name=Wistia%2C+Inc.&url=https%3A%2F%2Ffast.wistia.net%2Fembed%2Fiframe%2Favk9twrrbn&image=https%3A%2F%2Fembed-ssl.wistia.com%2Fdeliveries%2Fd49274a8fe8f2b54d33efce2a03429eeea1623af.jpg%3Fimage_crop_resized%3D960x540&key=96f1f04c5f4143bcb0f2e68c87d65feb&type=text%2Fhtml&schema=wistia"
-            scrolling="no" title="Wistia, Inc. embed" frameborder=
-            "0" allow="autoplay; fullscreen" allowfullscreen=
-            "true"></iframe>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+
+
+  
+
+
   <div class="section">
     <div class="container">
       <div class="container-width-medium">
-        <h2 class="center-content">Signup to hear when we
-        launch.</h2>
+       
         <div>
           <div class="w-form">
             <form id="Coming-Soon-Form" name=
@@ -100,7 +87,7 @@
                   Address</label><input type="email" class=
                   "input inline w-input" maxlength="256" name=
                   "email" data-name="Email" id="email" required="">
-                </div><input type="submit" value="Notify me"
+                </div><input type="submit" value="Sign Up"
                 data-wait="Please wait..." class=
                 "submit-button w-button">
               </div>
